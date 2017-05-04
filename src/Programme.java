@@ -28,7 +28,7 @@ public class Programme {
 
 //ajouter un réfugié dans la classe Programme (création et affichage)*/
 
-	Refugie momo = new Refugie("Momo","Mama",40,false);
+	Refugie momo = new Refugie("Momo","Mama",40,false); 
 	System.out.println(momo.toString());
 	
 	Refugie titi = new Refugie("TITI","tutu");
