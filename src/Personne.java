@@ -106,7 +106,7 @@ impacter le reste du projet en conséquence */
 //		this.nom = nom;
 	}
 
-   
+    
 }
 
 /*
