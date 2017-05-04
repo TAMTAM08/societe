@@ -30,7 +30,7 @@ public class Programme {
 
 	Refugie momo = new Refugie("Momo","Mama",40,false);  
 	System.out.println(momo.toString());
-	    
+	     
 	Refugie titi = new Refugie("TITI","tutu");
 	System.out.println(titi.toString());
 	

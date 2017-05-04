@@ -43,7 +43,7 @@ public class Refugie extends Personne {
 	 * régularisation d'un réfugié, en effet il ne doit pas être permis de
 	 * modifier directement cette information sur la représentation du réfugié
 	 * dans le système, le changement passe par la mise en place d'une méthode
-	 * regulariser la signature de la méthode est la suivante : boolean      
+	 * regulariser la signature de la méthode est la suivante : boolean       
 	 * regulariser(String motDePasse) le fonctionnement attendu est le suivant :
 	 * si le motDePasse est correct, le réfugié devient régularisé et "vrai" est
 	 * renvoyé en retour. Dans le cas contraire, le réfugié n'est pas régularisé
